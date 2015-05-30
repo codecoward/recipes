@@ -1,0 +1,14 @@
+Ingredients:
+
+- Two slices of bread
+- A bomb
+- Lettuce
+
+Directions:
+1. Place first slice of bread on top of planar surface
+
+2. Put bomb on top of the slice
+
+3. Put lettuce on top of bomb.
+
+4. Place other slice of bread on top of lettuce.
